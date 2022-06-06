@@ -1,8 +1,6 @@
 import React from "react";
 
-function EyesOnMe(){
-
-    
+function EyesOnMe(){    
 
     return (
         <div>

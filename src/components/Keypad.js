@@ -2,7 +2,7 @@ import React from "react";
 
 function Keypad(){
     function changeUp(){
-        console.log("Entering password.....")
+        console.log("Entering password...")
     }
     return(
         <div>
